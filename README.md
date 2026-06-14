@@ -1,8 +1,8 @@
 # VictoryWork Daily
 
-Tomorrow at 8:00, your workday is already briefed.
+Start work with the day already sorted.
 
-VictoryWork Daily connects Notion, Google Calendar, Gmail, and Drive to turn scattered work context into one morning briefing: priorities, meeting prep, deadlines, and missed follow-ups.
+VictoryWork Daily connects Notion, Google Calendar, Gmail, and Drive to turn scattered work context into one morning briefing: priorities, meeting prep, deadlines, and missed follow-ups before work starts.
 
 ## Request Access
 
@@ -27,13 +27,13 @@ VictoryWork Daily connects Notion, Google Calendar, Gmail, and Drive to turn sca
 
 ## Current Status
 
-We are accepting early access requests. Leave your email on the offer page and we will send payment plus onboarding details.
+We are accepting early access requests. Leave your email on the offer page and we will send payment details plus onboarding steps.
 
 ---
 
 ## 한국어
 
-내일 아침, 오늘 할 일이 먼저 정리됩니다.
+출근하면 이미 정리된 하루를 받습니다.
 
 VictoryWork Daily는 노션, 구글 캘린더, Gmail, 드라이브를 연결해 매일 아침 한 번의 브리핑으로 오늘의 우선순위와 회의 준비, 놓친 후속을 정리하는 개인 업무 브리핑 서비스입니다.
 
