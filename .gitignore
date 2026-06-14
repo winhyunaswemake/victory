@@ -1,0 +1,12 @@
+.env
+runner/.env
+*.secret
+*.key
+__pycache__/
+.pytest_cache/
+queue/completed/*.done
+web/node_modules/
+web/.next/
+web/out/
+web/.env*
+!web/.env.example
