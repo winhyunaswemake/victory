@@ -1,28 +1,42 @@
 # VictoryWork Daily
 
+Tomorrow at 8:00, your workday is already briefed.
+
+VictoryWork Daily connects Notion, Google Calendar, Gmail, and Drive to turn scattered work context into one morning briefing: priorities, meeting prep, deadlines, and missed follow-ups.
+
+## Request Access
+
+- Intro price: KRW 6,900 / month
+- Start: request access by email before checkout is enabled
+- Global offer: https://david-wins-rep-potential.trycloudflare.com/r/github_readme
+- Korean offer: https://david-wins-rep-potential.trycloudflare.com/offer?lang=ko
+- Japanese offer: https://david-wins-rep-potential.trycloudflare.com/offer?lang=ja
+
+## What You Receive
+
+- Top priorities for the day
+- Meeting preparation points
+- Deadlines and missed follow-ups
+- Important changes from connected work tools
+
+## Built For
+
+- People who use Notion or Google Calendar but still rebuild the day every morning
+- People who miss meeting prep, deadlines, or follow-ups when work gets noisy
+- People who want the daily briefing outcome, not another setup guide or template pack
+
+## Current Status
+
+We are accepting early access requests. Leave your email on the offer page and we will send payment plus onboarding details.
+
+---
+
+## 한국어
+
 내일 아침, 오늘 할 일이 먼저 정리됩니다.
 
 VictoryWork Daily는 노션, 구글 캘린더, Gmail, 드라이브를 연결해 매일 아침 한 번의 브리핑으로 오늘의 우선순위와 회의 준비, 놓친 후속을 정리하는 개인 업무 브리핑 서비스입니다.
 
-## 지금 신청
-
 - 가격: 월 6,900원
 - 시작: 카드 정보 없이 이메일 구매요청
-- 링크: https://david-wins-rep-potential.trycloudflare.com/r/github_readme
-
-## 매일 받는 것
-
-- 오늘 먼저 할 일
-- 회의 준비 포인트
-- 마감과 놓친 후속
-- 연결된 업무 도구의 핵심 변경사항
-
-## 이런 분께 맞습니다
-
-- 노션과 구글 캘린더로 일하지만 매일 아침 다시 정리하는 직장인
-- 회의 준비, 마감, 후속 연락을 자주 놓치는 사람
-- 자동화 세팅보다 바로 쓰는 결과물이 필요한 사람
-
-## 상태
-
-현재 구매요청을 받고 있습니다. 이메일을 남기면 시작 안내와 결제 안내를 보내드립니다.
+- 링크: https://david-wins-rep-potential.trycloudflare.com/offer?lang=ko
