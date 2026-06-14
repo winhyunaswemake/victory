@@ -8,7 +8,7 @@ VictoryWork Daily는 노션, 구글 캘린더, Gmail, 드라이브를 연결해 
 
 - 가격: 월 6,900원
 - 시작: 카드 정보 없이 이메일 구매요청
-- 링크: https://david-wins-rep-potential.trycloudflare.com/offer
+- 링크: https://david-wins-rep-potential.trycloudflare.com/r/github_readme
 
 ## 매일 받는 것
 
