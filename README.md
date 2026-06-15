@@ -8,9 +8,9 @@ VictoryWork Daily connects Notion, Google Calendar, Gmail, and Drive to turn sca
 
 - Intro price: KRW 6,900 / month
 - Start: request access by email before checkout is enabled
-- Global offer: https://showers-rabbit-challenging-tag.trycloudflare.com/r/github_readme
-- Korean offer: https://showers-rabbit-challenging-tag.trycloudflare.com/offer?lang=ko
-- Japanese offer: https://showers-rabbit-challenging-tag.trycloudflare.com/offer?lang=ja
+- Global offer: https://cfr-vacancies-attacked-portions.trycloudflare.com/r/github_readme
+- Korean offer: https://cfr-vacancies-attacked-portions.trycloudflare.com/offer?lang=ko
+- Japanese offer: https://cfr-vacancies-attacked-portions.trycloudflare.com/offer?lang=ja
 
 ## What You Receive
 
@@ -39,4 +39,4 @@ VictoryWork Daily는 노션, 구글 캘린더, Gmail, 드라이브를 연결해 
 
 - 가격: 월 6,900원
 - 시작: 카드 정보 없이 이메일 구매요청
-- 링크: https://showers-rabbit-challenging-tag.trycloudflare.com/offer?lang=ko
+- 링크: https://cfr-vacancies-attacked-portions.trycloudflare.com/offer?lang=ko
