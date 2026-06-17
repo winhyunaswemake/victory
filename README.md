@@ -4,17 +4,18 @@ Start work with the day already sorted.
 
 VictoryWork Daily connects Notion, Google Calendar, Gmail, and Drive to turn scattered work context into one morning briefing: priorities, meeting prep, deadlines, and missed follow-ups before work starts.
 
-## Request Access
+## Get a Sample Briefing
 
 - Intro price: KRW 6,900 / month
-- Start: request access by email before checkout is enabled
+- Start: leave your email for a sample briefing first
+- Purchase request: available in the pricing section after you check fit
 - Global offer: https://cfr-vacancies-attacked-portions.trycloudflare.com/r/github_readme
 - Korean offer: https://cfr-vacancies-attacked-portions.trycloudflare.com/r/github_readme?lang=ko
 - Japanese offer: https://cfr-vacancies-attacked-portions.trycloudflare.com/r/github_readme?lang=ja
 
-## Paid-Fit Questions
+## Sample-Fit Questions
 
-Before requesting access, check these three things:
+Before requesting a sample, check these three things:
 
 1. Do you spend more than 10 minutes every morning rebuilding your work plan?
 2. What would make a KRW 6,900 / month briefing worth paying for?
@@ -35,7 +36,7 @@ Before requesting access, check these three things:
 
 ## Current Status
 
-We are accepting early access requests. Leave your email on the offer page and we will send payment details plus onboarding steps.
+We are accepting sample briefing requests first. Leave your email on the offer page and we will send a sample plus availability notes; purchase requests remain available in the pricing section.
 
 ---
 
@@ -46,10 +47,11 @@ We are accepting early access requests. Leave your email on the offer page and w
 VictoryWork Daily는 노션, 구글 캘린더, Gmail, 드라이브를 연결해 매일 아침 한 번의 브리핑으로 오늘의 우선순위와 회의 준비, 놓친 후속을 정리하는 개인 업무 브리핑 서비스입니다.
 
 - 가격: 월 6,900원
-- 시작: 카드 정보 없이 이메일 구매요청
+- 시작: 카드 정보 없이 브리핑 샘플 요청
+- 구매요청: 오퍼 페이지 가격 섹션에서 진행
 - 링크: https://cfr-vacancies-attacked-portions.trycloudflare.com/r/github_readme?lang=ko
 
-구매 전에 아래 3가지를 확인하고 있습니다.
+샘플 요청 전에 아래 3가지를 확인하고 있습니다.
 
 1. 아침마다 업무 정리에 10분 이상 쓰나요?
 2. 월 6,900원을 낼 만큼 중요한 브리핑 조건은 무엇인가요?
